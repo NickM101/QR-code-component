@@ -5,7 +5,7 @@ A sleek, accessible, and modern QR code component. Perfect for sharing URLs, con
 
 ## Features
 - **High-contrast, responsive design**
-- **Mobile-friendly and touch-optimized**
+- **Mobile-friendly**
 - **Customizable: colors, size, borders**
 - **Supports most modern browsers**
 - **Zero dependencies**

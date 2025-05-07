@@ -1,6 +1,8 @@
 # QR-code-component
 A sleek, accessible, and modern QR code component. Perfect for sharing URLs, contact info, or any data that can be represented as a QR code. Designed for easy integration and seamless user experience.
 
+![screenshot](https://github.com/NickM101/QR-code-component/blob/main/images/image-qr-code.png)
+
 ## Features
 - **High-contrast, responsive design**
 - **Mobile-friendly and touch-optimized**
